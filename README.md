@@ -1,5 +1,5 @@
 # MERISKILL INTERNSHIP PROJECT ON HR ANALYTICS 
-![Human love stories(1)](https://github.com/user-attachments/assets/9c5274c7-db3f-4e6e-80d1-67abb29f6351)_
+![Image](https://github.com/user-attachments/assets/2220d9d1-a269-4a89-9ad1-8ad1117f293e)
 
 # INTRODUCTION  
 _This project tackles real-world data analytics challanges in the **_HR Analytics_**.  
