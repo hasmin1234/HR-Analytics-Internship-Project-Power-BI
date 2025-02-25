@@ -25,13 +25,13 @@ _5.PUBLISHING TO POWER BI SERVICE_
 _[Presentation](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_  
 
 # TASKED PERFORMED
-_**Data Cleaning**._ 
+_1.**Data Cleaning**._  
 _Deleting Renundant columns  
 Renaming the columns 
 Droping Duplicates  
 Cleaning Individual Columns 
-Removing the NaN values from the datasets_
-_2.**Data Visualisation**._ 
+Removing the NaN values from the datasets_  
+_2.**Data Visualisation**._  
 _Ploting correlation map for all numeric variables  
 Overtime
 Marital Status
