@@ -24,10 +24,24 @@ _5.PUBLISHING TO POWER BI SERVICE_
 ## RERPORTS AND PRESENTATION   
 _[Presentation](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_  
 
-# LEARNING  OUTCOMES 
-_1. Improved SQL joins aggregations for large datasets._  
-_2. Created compelling visual stories using Power BI._
-
-# IMPACT & INSIGHTS  
-_Our analysis revealed that off-season discounts could increase bookings by 25%.  
-An interactive dashboard was created to visualise trends and inform decision-making._
+# TASKED PERFORMED
+_**Data Cleaning**._ 
+_Deleting Renundant columns  
+Renaming the columns 
+Droping Duplicates  
+Cleaning Individual Columns 
+Removing the NaN values from the datasets_
+_2.**Data Visualisation**._  
+_Ploting correlation map for all numeric variables  
+Overtime  
+Marital Status 
+Job Role
+Gender 
+Education Field  
+Department 
+Business Travel 
+Relation Between Overtime and age 
+Total Working Years
+Education Level 
+Number of companies worked
+Distance from home_
