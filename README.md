@@ -5,7 +5,7 @@
 _This project tackles real-world data analytics challanges in the **_HR Analytics_**.  
 By leveraging Power BI , I derived actionable insights to optimize business goal.  
 This showcases my expertise in **_DATA ANALYSIS,VISUALIZATION  AND  
-STORYTELLING_**.
+STORYTELLING_**._
 
 # OBJECTIVE
 _The Objective of this project is to analyze the operational data of Cab Company in order to identify 
