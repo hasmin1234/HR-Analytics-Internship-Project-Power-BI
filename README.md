@@ -7,12 +7,6 @@ By leveraging Power BI , I derived actionable insights to optimize business goal
 This showcases my expertise in **_DATA ANALYSIS,VISUALIZATION  AND  
 STORYTELLING_**._
 
-# OBJECTIVE
-_The Objective of this project is to analyze the operational data of Cab Company in order to identify 
-key trends, optimize fleet management and improve overall revenue. By examining ride patterns,peak times 
-and customer behaviour, the goal is to recommend data-driven strategies to increase efficiency, reduce downtime 
-and enhance customer satisfaction._
-
 # APPROACH / METHODOLOGY
 _**The project followed a structured approach :**_  
 _1.ETL(EXTRACT ,TRANSFORM & LOAD ) PROCEDURES_  
