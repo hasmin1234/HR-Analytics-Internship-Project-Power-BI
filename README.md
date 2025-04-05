@@ -16,7 +16,7 @@ _4.DASHBOARD CREATION_
 _5.PUBLISHING TO POWER BI SERVICE_
 
 ## RERPORTS AND PRESENTATION   
-_[Presentation](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_  
+_[Presentation](<iframe title="HR Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTY1MjViZDUtYTQzYS00NDY2LWE3YWItOGNiN2ZhNGY5ZTBiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>)_  
 
 # TASKED PERFORMED
 _**Data Cleaning**._  
