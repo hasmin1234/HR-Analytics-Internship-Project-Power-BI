@@ -17,7 +17,7 @@ _5.PUBLISHING TO POWER BI SERVICE_
 
 ## RERPORTS AND PRESENTATION   
 _[Presentation]_(https://app.powerbi.com/view?r=eyJrIjoiMTY1MjViZDUtYTQzYS00NDY2LWE3YWItOGNiN2ZhNGY5ZTBiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-_2.[Presentation Video](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_
+
 
 # TASKED PERFORMED
 _**Data Cleaning**._  
